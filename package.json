@@ -21,6 +21,7 @@
   "homepage": "https://github.com/twentysixhugs/basic-informational-site#readme",
   "dependencies": {
     "@types/node": "^17.0.32",
+    "express": "^4.18.1",
     "typescript": "^4.6.4"
   }
 }
